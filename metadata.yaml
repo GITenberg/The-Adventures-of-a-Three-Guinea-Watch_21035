@@ -1,0 +1,35 @@
+_repo: The-Adventures-of-a-Three-Guinea-Watch_21035
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Talbot Baines
+    birthdate: 1852
+    deathdate: 1893
+    gutenberg_agent_id: '9657'
+    url: http://www.gutenberg.org/2009/agents/9657
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
+description: Recounts the progress of a fob watch from school to college, from England
+  to India, where as a possession of an officer in Her Majesty's Army it takes part
+  in the troubles at Lucknow.
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2007-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Clocks and watches -- Juvenile fiction'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+title: The Adventures of a Three-Guinea Watch
+url: http://www.gutenberg.org/ebooks/21035
